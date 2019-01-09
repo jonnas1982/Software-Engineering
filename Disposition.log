@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018/Arch Linux) (preloaded format=pdflatex 2019.1.7)  7 JAN 2019 13:06
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018/Arch Linux) (preloaded format=pdflatex 2019.1.7)  9 JAN 2019 02:10
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -201,29 +201,115 @@ G,.JBIG2,.JB2,.eps]
 (/usr/share/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
 File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
 e
-)) [1
+))
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 14.
+
+(/usr/share/texmf-dist/tex/latex/base/omscmr.fd
+File: omscmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
+)
+LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10.95> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 14.
+ [1
 
 {/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}] [2] [3]
-Overfull \hbox (4.39299pt too wide) in paragraph at lines 14--14
+Underfull \hbox (badness 10000) in paragraph at lines 95--97
+
+ []
+
+[4]
+Overfull \hbox (4.39299pt too wide) in paragraph at lines 99--99
 \OT1/cmr/bx/n/14.4 en-gi-neer-ing pro-cesses, in-clud-ing anal-y-sis of home
  []
 
-[4] [5] [6] [7] [8] [9] [10] [11] [12] [13] (./Disposition.aux) ) 
+LaTeX Font Info:    Try loading font information for U+msa on input line 108.
+(/usr/share/texmf-dist/tex/latex/amsfonts/umsa.fd
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Try loading font information for U+msb on input line 108.
+
+(/usr/share/texmf-dist/tex/latex/amsfonts/umsb.fd
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+)
+Overfull \hbox (101.75719pt too wide) in paragraph at lines 101--127
+[] 
+ []
+
+[5]
+Underfull \hbox (badness 10000) in paragraph at lines 153--163
+
+ []
+
+[6] [7]
+Underfull \hbox (badness 10000) in paragraph at lines 167--169
+
+ []
+
+<rup.png, id=30, 212.7147pt x 103.3461pt>
+File: rup.png Graphic file (type png)
+<use rup.png>
+Package pdftex.def Info: rup.png  used on input line 178.
+(pdftex.def)             Requested size: 212.71417pt x 103.34584pt.
+[8 <./rup.png>] [9] [10] [11] [12]
+Overfull \hbox (9.96553pt too wide) in paragraph at lines 260--263
+\OT1/cmr/bx/n/10.95 Kategorier \OT1/cmr/m/n/10.95 Catas-trophic, Crit-i-cal, Ma
+rginal, Neg-li-gi-ble, Un-cer-tainty, project,
+ []
+
+<risk-cat.png, id=48, 171.7617pt x 154.176pt>
+File: risk-cat.png Graphic file (type png)
+<use risk-cat.png>
+Package pdftex.def Info: risk-cat.png  used on input line 265.
+(pdftex.def)             Requested size: 171.76128pt x 154.1756pt.
+[13 <./risk-cat.png>] [14]
+<quality-mang.png, id=57, 183.8067pt x 99.4917pt>
+File: quality-mang.png Graphic file (type png)
+<use quality-mang.png>
+Package pdftex.def Info: quality-mang.png  used on input line 305.
+(pdftex.def)             Requested size: 183.80624pt x 99.49144pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 308--314
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 308--314
+
+ []
+
+[15 <./quality-mang.png>] [16] [17]
+Overfull \hbox (114.83643pt too wide) in paragraph at lines 376--430
+[]
+ []
+
+
+Overfull \hbox (134.66814pt too wide) in paragraph at lines 376--430
+[] 
+ []
+
+[18] [19]
+Overfull \hbox (5.94344pt too wide) in paragraph at lines 442--443
+\OT1/cmr/m/n/10.95 Plan-driven kr^^Zver god doku-men-ta-tion, da der let kan sk
+e ud-skift-ning imellem
+ []
+
+[20] [21] (./Disposition.aux) ) 
 Here is how much of TeX's memory you used:
- 2298 strings out of 492639
- 29788 string characters out of 6135498
- 92166 words of memory out of 5000000
- 6180 multiletter control sequences out of 15000+600000
- 4545 words of font info for 17 fonts, out of 8000000 for 9000
+ 2380 strings out of 492639
+ 30984 string characters out of 6135498
+ 100166 words of memory out of 5000000
+ 6235 multiletter control sequences out of 15000+600000
+ 10152 words of font info for 38 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 41i,4n,25p,278b,111s stack positions out of 5000i,500n,10000p,200000b,80000s
-</usr/share/te
-xmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/share/texmf-dist/fonts
-/type1/public/amsfonts/cm/cmr10.pfb>
-Output written on Disposition.pdf (13 pages, 30327 bytes).
+ 41i,7n,25p,310b,213s stack positions out of 5000i,500n,10000p,200000b,80000s
+</usr/share/texmf-dist/fonts/type1/public/amsfon
+ts/cm/cmbx10.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.p
+fb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/
+texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texmf-dist/fon
+ts/type1/public/amsfonts/cm/cmti10.pfb>
+Output written on Disposition.pdf (21 pages, 391568 bytes).
 PDF statistics:
- 55 PDF objects out of 1000 (max. 8388607)
- 37 compressed objects within 1 object stream
+ 99 PDF objects out of 1000 (max. 8388607)
+ 64 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
- 1 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 16 words of extra memory for PDF output out of 10000 (max. 10000000)
 
